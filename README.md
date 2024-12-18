@@ -1,6 +1,6 @@
  
 
-  <h3 align="center">A Fintech Bank Application</h3>
+  <h3 align="center">Banking Finance Management Application</h3>
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
